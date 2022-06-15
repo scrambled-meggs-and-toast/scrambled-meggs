@@ -1,5 +1,5 @@
 <header>
-  <h3>👋 Hello, I’m @scrambled-meggs</h3>
+  <h3>👋 Hello, I’m @scrambled-meggs-and-toast</h3>
   I'm a mostly self taught aspiring full stack delevoper! I still have a lot to learn! 
   <br></br>
 </header>
