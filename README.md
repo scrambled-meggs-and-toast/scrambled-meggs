@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @scrambled-meggs
-- 👀 I’m interested in working towards a career as full-stack engineer!
-- 🌱 I’m currently learning C++ and java script 
-- 💞️ I’m looking to collaborate on any programs to pratice my html, css, C++, or java script!
+<header>
+  <h3>👋 Hello, I’m @scrambled-meggs</h3>
+  I'm a mostly self taught aspiring full stack delevoper! I still have a lot to learn! 
+  <br></br>
+</header>
+
+
+- 👩‍💻 I’m currently working on personal projects
+- 🌱 I’m learning C++, java script, and python 
+- 💞️ I’m looking to collaborate on any projects to pratice and increase my html, css, C++, or java script fluency!
 - 📫 Feel free to reach me at my email scrambled.meggs.and.toast@gmail.com
 
 <!---
